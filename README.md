@@ -1,7 +1,8 @@
 # StudyMate AI 🎓✨
 
 **StudyMate AI** is a complete, modern, AI-powered study companion and academic productivity web application. Powered by React, Tailwind CSS, and Google Gemini 3.6 Flash AI, it empowers students to organize study tasks, track homework assignments, manage weekly timetables, analyze study progress with charts, and learn smarter with an instant AI tutor.
-
+live public URL 
+https://studymate-ruddy.vercel.app
 ---
 
 ## 🌟 Key Features
