@@ -4,6 +4,32 @@
 live public URL 
 https://studymate-ruddy.vercel.app
 ---
+## How to Run
+
+1. Clone the repository.
+2. Run `npm install`.
+3. Run `npm run dev`.
+4. Open `http://localhost:3000`.
+   ## Tools Used
+
+- Google AI Studio
+- Google Gemini AI
+- React
+- Next.js
+- Tailwind CSS
+- GitHub
+- Vercel
+  ## Screenshots
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### AI Assistant
+![AI Assistant](images/ai-assistant.png)
+
+### Task Manager
+![Task Manager](images/tasks.png)
+
 
 ## 🌟 Key Features
 
